@@ -2,7 +2,12 @@
 
 ## 5/22/2023
 
-- [x] review math - khan academy 
+- [ ] review math - khan academy 
 - [ ] review math - CK12 
-- [ ] review math - Pauls Notes
+- [x] review math - Pauls Notes
 
+## 5/25/2023
+
+- [ ] read more of the book
+- [ ] complete 1 programming exercise
+- [ ] Get familiar with github desktop
